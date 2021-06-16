@@ -3,7 +3,7 @@
 
 html
 {
-	background-image:url("images/bg.gif");
+	background-image:url("images/background.jpg");
 	background-attachment:fixed;
 	background-size:cover;
 }
@@ -36,6 +36,9 @@ h2 {
 	margin-top: 30px;
 }
 
+#jarak{
+	line-height: 80px;
+}
 /*set the first box/division */
 #logo {
 	background-color:#000;
